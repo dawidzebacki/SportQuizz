@@ -1,1 +1,1 @@
-[See my app here](https://redgato7.github.io/SportQuizz/)
+[Live Demo](www.sportquizz-dawidzebacki.netlify.app)
